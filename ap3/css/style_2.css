@@ -1,0 +1,39 @@
+div {
+  width: 45%;
+  float: left;
+  border: 2px solid #000000;
+  padding: 25px;
+  margin: 10px;
+}
+
+#stanga {
+  background-color: blueviolet;
+}
+
+#dreapta {
+  background-color: blue;
+}
+
+#idp5{
+    color: burlywood;
+}
+
+.p1{
+color: red;
+}
+
+.p2{
+    color: yellowgreen;
+}
+
+#bottom{
+    width: 100%;
+}
+
+#bottom p{
+    color: violet;
+}
+
+#bottom article+p{
+    color: tomato;
+}
